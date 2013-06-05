@@ -17,9 +17,7 @@ This is a sample blog.
 *   Green
 *   Blue
 
-* Red
-* Green
-* Blue
+* Red * Green * Blue * Red * Green * Blue
 
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
